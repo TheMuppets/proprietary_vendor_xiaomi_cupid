@@ -501,7 +501,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/T-handfree.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/T-handfree.txt \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/T-handset.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/T-handset.txt \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/T-music.txt:$(TARGET_COPY_OUT_VENDOR)/firmware/T-music.txt \
-    vendor/xiaomi/cupid/proprietary/vendor/firmware/a730_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_sqe.fw \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/a730_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_zap.b00 \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/a730_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_zap.b01 \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/a730_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a730_zap.b02 \
@@ -570,7 +569,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/evautil64.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/evautil64.b06 \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/evautil64.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/evautil64.b07 \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/evautil64.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evautil64.mdt \
-    vendor/xiaomi/cupid/proprietary/vendor/firmware/gmu_gen70000.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gmu_gen70000.bin \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/st_fts_l3.ftb:$(TARGET_COPY_OUT_VENDOR)/firmware/st_fts_l3.ftb \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/st_fts_l3_thp.ftb:$(TARGET_COPY_OUT_VENDOR)/firmware/st_fts_l3_thp.ftb \
     vendor/xiaomi/cupid/proprietary/vendor/firmware/stm_fts_production_limits.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/stm_fts_production_limits.csv \
